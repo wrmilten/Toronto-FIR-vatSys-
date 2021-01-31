@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DefaultJurisdiction>
+    <RuleSet Name="CYYZ_DEP">
+      <Rules>
+        <Departure Values="CYYZ">
+          <Rules>
+            <Runway Values="24R,24L,33R,33L,06L,06R,15L,15R">
+              </Rules>
+        </Departure>
+    </RuleSet>
+</DefaultJurisdiction>
