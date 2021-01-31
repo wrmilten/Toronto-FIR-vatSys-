@@ -5233,6 +5233,22 @@
       <Transition Name="IPTOS">IPTOS</Transition>
       <Transition Name="LORKA">LORKA</Transition>
     </SID>
+    <STAR Name="LINNG3" Airport="CYYZ" Runways="24R,24L,23,06L,06R,05,33R,33L,15L,15R">
+      <Transition Name="WOZEE">WOZEE ISTON</Transition>
+      <Transition Name="LOKPU">LOKPU</Transition>
+      <Transition Name="OXMAN">OXMAN TMILS MYPAL</Transition>
+      <Route>LINNG</Route>
+      <Route Runway="24L">YOUTH BIMPO VERKO MAROD DEKNI DAVNO DUNOL</Route>
+      <Route Runway="24R">YOUTH BIMPO VERKO MAROD DEKNI DAVNO DUNOL</Route>
+      <Route Runway="06R">SEDAB DEGRO SEGOD VERKO DARPU DANIP MASAR LERAN</Route>
+      <Route Runway="06L">SEDAB DEGRO SEGOD VERKO DARPU DANIP MASAR LERAN</Route>
+      <Route Runway="23">YOUTH BIMPO VERKO MAROD DEKNI DAVNO DUNOL</Route>
+      <Route Runway="05">SEDAB DEGRO SEGOD VERKO DARPU DANIP MASAR LERAN</Route>
+      <Route Runway="15L">YOUTH VERKO MIRUG MITUX OMTIP KASIT MEVPO</Route>
+      <Route Runway="15R">YOUTH VERKO PILNI IGTIL GADOG TAGAT LOBNU</Route>
+      <Route Runway="33R">MERKI RIDOD AGBEK</Route>
+      <Route Runway="33L">MERKI IKMEX ERBAN</Route>
+    </STAR>
   </SIDSTARs>
 <Airports>
   <Airport ICAO="CNC3" Position="+434535.301-0795226.000" />
