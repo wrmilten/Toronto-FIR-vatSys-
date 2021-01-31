@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ATIS>
+ <Frequencies>
+    <Frequency Airport="CYYZ" Frequency="120.82" />
+    <Frequency Airport="CYTZ" Frequency="124.95" />
+    <Frequency Airport="CYAM" Frequency="133.05" />
+    <Frequency Airport="CYHM" Frequency="128.1" />
+    <Frequency Airport="CYKF" Frequency="125.1" />
+  </Frequencies>
+  <Translations>
+    <Translation String="CYYZ" Spoken="Toronto International" />
+    <Translation String="CYTZ" Spoken="Billy Bishop" />
+    <Translation String="CYAM" Spoken="Sault Saint Marie" />
+    <Translation String="CYHM" Spoken="Hamilton" />
+    <Translation String="CYKF" Spoken="Kitchner" />
+    <Translation String="ATIS" Spoken="Information" />
+    <Translation String="A" Spoken="alpha" />
+    <Translation String="B" Spoken="bravo" />
+    <Translation String="C" Spoken="charlie" />
+    <Translation String="D" Spoken="delta" />
+    <Translation String="E" Spoken="echo" />
+    <Translation String="F" Spoken="foxtrot" />
+    <Translation String="G" Spoken="golf" />
+    <Translation String="H" Spoken="hotel" />
+    <Translation String="I" Spoken="india" />
+    <Translation String="J" Spoken="juliet" />
+    <Translation String="K" Spoken="kilo" />
+    <Translation String="L" Spoken="lima" />
+    <Translation String="M" Spoken="mike" />
+    <Translation String="N" Spoken="november" />
+    <Translation String="O" Spoken="oscar" />
+    <Translation String="P" Spoken="papa" />
+    <Translation String="Q" Spoken="quebec" />
+    <Translation String="R" Spoken="romeo" />
+    <Translation String="S" Spoken="sierra" />
+    <Translation String="T" Spoken="tango" />
+    <Translation String="U" Spoken="uniform" />
+    <Translation String="V" Spoken="victor" />
+    <Translation String="W" Spoken="whiskey" />
+    <Translation String="X" Spoken="x-ray" />
+    <Translation String="Y" Spoken="yankee" />
+    <Translation String="Z" Spoken="zulu" />
+    <Translation String="APCH" Spoken="approach" />
+    <Translation String="INST" Spoken="instrument" />
+    <Translation String="INSTR" Spoken="instrument" />
+    <Translation String="ILS" Spoken="I L S" />
+    <Translation String="NDB" Spoken="N D B" />
+    <Translation String="VOR" Spoken="V O R" />
+    <Translation String="GLS" Spoken="G L S" />
+    <Translation String="DME" Spoken="D M E" />
+    <Translation String="RNP" Spoken="R N P" />
+    <Translation String="RNAV" Spoken="ɑ&#x02D0;næv&#x02D0;" Alphabet="IPA" FallbackSpoken="are-navv" />
+    <Translation String="RWY" Spoken="runway" />
+    <Translation String="RWYS" Spoken="runways" />
+  </Translations>
+</ATIS>
+
