@@ -5256,16 +5256,16 @@
   <Airport ICAO="CYYB" Position="+462149.798-0792527.001" />
   <Airport ICAO="CYYU" Position="+492441.720-0822810.351" />
   <Airport ICAO="CYYZ" Position="+434036.188-0793750.368" />
-      <Runway Name="23" Position="-343727.150+1480143.450" />
-      <Runway Name="24R" Position="-343736.860+1480214.910" />
-      <Runway Name="24L" Position="-343701.820+1480208.280" />
-      <Runway Name="05" Position="-343738.170+1480213.420" />
-      <Runway Name="06L" Position="-343727.150+1480143.450" />
-      <Runway Name="06R" Position="-343736.860+1480214.910" />
-      <Runway Name="33R" Position="-343701.820+1480208.280" />
-      <Runway Name="33L" Position="-343738.170+1480213.420" />
-      <Runway Name="15L" Position="-343701.820+1480208.280" />
-      <Runway Name="15R" Position="-343738.170+1480213.420" />
+      <Runway Name="23" Position="+434139.190-0793805.710" />
+      <Runway Name="24R" Position="+434044.320-0793550.530" />
+      <Runway Name="24L" Position="+434031.040-0793550.050" />
+      <Runway Name="05" Position="+434027.820-0793949.360" />
+      <Runway Name="06L" Position="+433939.780-0793724.340" />
+      <Runway Name="06R" Position="+433929.880-0793718.940" />
+      <Runway Name="33R" Position="+434014.870-0793652.380" />
+      <Runway Name="33L" Position="+434008.860-0793750.150" />
+      <Runway Name="15L" Position="+434134.110-0793835.860" />
+      <Runway Name="15R" Position="+434105.580-0793904.240" />
   <Airport ICAO="CYZD" Position="+434433.561-0792756.300" />
   <Airport ICAO="CYZE" Position="+455303.238-0823405.811" />
   <Airport ICAO="CYZR" Position="+425958.851-0821833.710" />
