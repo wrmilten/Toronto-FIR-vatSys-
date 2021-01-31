@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Position Name="Toronto Arrival" Type="ASD" DefaultCenter="+434036.188-0793750.368" DefaultRange="150" MagneticVariation="+10.4">
+    <Sectors>
+      <Sector Name="AA" />
+      <Sector Name="AB" />
+      <Sector Name="AC" />
+    </Sectors>
+    <Maps>
+      <Map Name="testmap" />
+    </Maps>
+      <ATIS>
+        <Editor Airport="CYYZ" Frequency="120.82" />
+        <Window Airport="CYYZ" />
+      </ATIS>
+    <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="CYYZ" Visible="true" />
+        <Window Type="ADES" Beacon="CYYZ" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="4500" />
+        <AdditionalLevels>4300</AdditionalLevels>
+    <ArrivalLists>
+      <Airport Name="CYYZ" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Toronto Arrival</Line>
+      <Line>PDC via PM or Voice</Line>
+      <Line>Charts and info - www.torontofir.ca</Line>
+    </ControllerInfo>
+  </Position>
+</Positions>

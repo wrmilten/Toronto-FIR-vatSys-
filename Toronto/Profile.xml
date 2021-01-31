@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Profile Name="Toronto FIR" FullName="Toronto FIR">
+	<Version AIRAC="2101" Revision="a" PublishDate="20210130" UpdateURL="" />
+	<Servers>
+		<VATSIMStatus url="https://status.vatsim.net/" />
+		<GRIB url="http://sawbe.com/GRIB/" />
+		<G2G url="" />
+	</Servers>	
+</Profile>
