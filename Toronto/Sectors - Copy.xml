@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<Sectors>
+  <Sector FullName="Toronto Centre CE/W" Frequency="125.775" Callsign="TOR_CTR" Name="CE" />
+  <Sector FullName="Toronto Centre W" Frequency="125.775" Callsign="TOR_W_CTR" Name="CE" />
+  <Sector FullName="Toronto Centre SL/L" Frequency="132.650" Callsign="TOR_SL_CTR" Name="SL" />
+  <Sector FullName="Toronto Centre PI" Frequency="124.675" Callsign="TOR_PI_CTR" Name="PI" />
+  <Sector FullName="Toronto Centre PI" Frequency="124.675" Callsign="TOR_PI_CTR" Name="PI" />
+  <Sector FullName="Toronto Centre BA" Frequency="134.575" Callsign="TOR_BA_CTR" Name="BA" />
+  <Sector FullName="Toronto Centre SC" Frequency="134.575" Callsign="TOR_SC_CTR" Name="BA" />
+  <Sector FullName="Toronto Centre XI/MN" Frequency="121.225" Callsign="TOR_CTR" Name="XI" />
+  <Sector FullName="Toronto Centre RU" Frequency="133.975" Callsign="TOR_RU_CTR" Name="RU" />
+  <Sector FullName="Toronto Centre TS" Frequency="128.300" Callsign="TOR_TS_CTR" Name="TS" />
+  <Sector FullName="Toronto Centre YB" Frequency="127.250" Callsign="TOR_YB_CTR" Name="YB" />
+  <Sector FullName="Toronto Centre NR" Frequency="120.725" Callsign="TOR_NR_CTR" Name="NR" />
+  <Sector FullName="Toronto Centre SL" Frequency="132.650" Callsign="TOR_SL_CTR" Name="SL" />
+  <Sector FullName="Toronto Centre VV" Frequency="132.575" Callsign="TOR_VV_CTR" Name="VV" />
+  <Sector FullName="Toronto Centre SH/N" Frequency="134.425" Callsign="TOR_SH_CTR" Name="SH" />
+  <Sector FullName="Toronto Centre SH/N" Frequency="124.070" Callsign="TOR_SH_CTR" Name="SH" />
+  <Sector FullName="Toronto Centre SH/N" Frequency="134.425" Callsign="TOR_N_CTR" Name="SH" />
+  <Sector FullName="Toronto Centre SH/N" Frequency="124.070" Callsign="TOR_N_CTR" Name="SH" />
+  <Sector FullName="Toronto Centre RA" Frequency="135.400" Callsign="TOR_RA_CTR" Name="RA" />
+  <Sector FullName="Toronto Centre CN" Frequency="135.050" Callsign="TOR_CN_CTR" Name="CN" />
+  <Sector FullName="Toronto Centre ER" Frequency="124.925" Callsign="TOR_ER_CTR" Name="ER" />
+  <Sector FullName="Toronto Centre SI/EW" Frequency="127.000" Callsign="TOR_SI_CTR" Name="SI" />
+  <Sector FullName="Toronto Centre SI/EW" Frequency="127.000" Callsign="TOR_EW_CTR" Name="SI" />
+  <Sector FullName="Toronto Centre GR" Frequency="133.300" Callsign="TOR_GR_CTR" Name="GR" />
+  <Sector FullName="Toronto Centre HM" Frequency="132.475" Callsign="TOR_HM_CTR" Name="HM" />
+  <Sector FullName="Toronto Centre KF/WL" Frequency="135.625" Callsign="TOR_KF_CTR" Name="KF" />
+  <Sector FullName="Toronto Centre KF/WL" Frequency="135.625" Callsign="TOR_WL_CTR" Name="KF" />
+  <Sector FullName="Toronto Centre WS" Frequency="119.700" Callsign="TOR_WS_CTR" Name="WS" />
+  <Sector FullName="Toronto Centre XU" Frequency="135.300" Callsign="TOR_XU_CTR" Name="XU" />
+  <Sector FullName="Toronto Centre MI" Frequency="124.375" Callsign="TOR_MI_CTR" Name="MI" />
+  <Sector FullName="Toronto Centre HU" Frequency="126.175" Callsign="TOR_HU_CTR" Name="HU" />
+  <Sector FullName="Toronto Centre LU" Frequency="135.820" Callsign="TOR_LU_CTR" Name="LU" />
+  <Sector FullName="Toronto Centre OV" Frequency="134.920" Callsign="TOR_OV_CTR" Name="OV" />
+  <Sector FullName="Toronto 1 Approach" Frequency="132.800" Callsign="CYYZ_APP" Name="AA" />
+  <Sector FullName="Toronto 1 Approach" Frequency="128.800" Callsign="CYYZ_1_APP" Name="AA" />
+  <Sector FullName="Toronto 2 Approach" Frequency="124.475" Callsign="CYYZ_2_APP" Name="AB" />
+  <Sector FullName="Toronto 3 Approach" Frequency="125.400" Callsign="CYYZ_3_APP" Name="AC" />
+  <Sector FullName="Toronto North Departure" Frequency="127.575" Callsign="CYYZ_N_DEP" Name="ND" />
+  <Sector FullName="Toronto South Departure" Frequency="128.800" Callsign="CYYZ_DEP" Name="SD" />
+  <Sector FullName="Toronto South Departure" Frequency="128.800" Callsign="CYYZ_S_DEP" Name="SD" />
+  <Sector FullName="Toronto East Terminal" Frequency="133.400" Callsign="CYYZ_E_DEP" Name="ES" />
+  <Sector FullName="Toronto West Terminal" Frequency="119.300" Callsign="CYYZ_W_DEP" Name="WS" />
+  <Sector FullName="Toronto North APRON" Frequency="122.270" Callsign="YYZ_NA_GND" Name="NA" />
+  <Sector FullName="Toronto South APRON" Frequency="122.070" Callsign="YYZ_SA_GND" Name="SA" />
+  <Sector FullName="Toronto North Tower" Frequency="118.700" Callsign="CYYZ_N_TWR" Name="NT" />
+  <Sector FullName="Toronto South Tower" Frequency="118.350" Callsign="CYYZ_S_TWR" Name="ST" />
+  <Sector FullName="Toronto North Ground" Frequency="121.650" Callsign="CYYZ_N_GND" Name="NG" />
+  <Sector FullName="Toronto South Ground" Frequency="121.900" Callsign="CYYZ_S_GND" Name="SG" />
+  <Sector FullName="Toronto Clearance" Frequency="121.300" Callsign="CYYZ_DEL" Name="DEL" />
+  <Sector FullName="Buttonville Tower" Frequency="124.800" Callsign="CYKZ_TWR" Name="BT" />
+  <Sector FullName="Buttonville Ground" Frequency="121.800" Callsign="CYKZ_GND" Name="BG" />
+  <Sector FullName="City Centre Tower" Frequency="118.200" Callsign="CYTZ_TWR" Name="IT" />
+  <Sector FullName="City Centre Ground" Frequency="121.700" Callsign="CYTZ_GND" Name="IG" />
+  <Sector FullName="Oshawa Tower" Frequency="120.100" Callsign="CYOO_TWR" Name="OO" />
+  <Sector FullName="Oshawa Ground" Frequency="118.400" Callsign="CYOO_GND" Name="OWG" />
+  <Sector FullName="Kitchener/Waterloo Tower" Frequency="126.000" Callsign="CYKF_TWR" Name="KT" />
+  <Sector FullName="Kitchener/Waterloo Ground" Frequency="121.800" Callsign="CYKF_GND" Name="KG" />
+  <Sector FullName="Hamilton Tower" Frequency="125.000" Callsign="CYHM_TWR" Name="HT" />
+  <Sector FullName="Hamilton Ground" Frequency="121.600" Callsign="CYHM_GND" Name="HG" />
+  <Sector FullName="London Tower" Frequency="119.400" Callsign="CYXU_TWR" Name="LT" />
+  <Sector FullName="London Ground" Frequency="121.900" Callsign="CYXU_GND" Name="LG" />
+  <Sector FullName="Sault Ste Marie Tower" Frequency="118.800" Callsign="CYAM_TWR" Name="AT" />
+  <Sector FullName="Sault Ste Ground" Frequency="121.700" Callsign="CYAM_GND" Name="AG" />
+  <Sector FullName="Trenton Tower" Frequency="128.700" Callsign="CYTR_TWR" Name="TT" />
+  <Sector FullName="Trenton Ground" Frequency="121.900" Callsign="CYTR_GND" Name="TG" />
+  <Sector FullName="Windsor Tower" Frequency="124.700" Callsign="CYQG_TWR" Name="WT" />
+  <Sector FullName="Windsor Groung" Frequency="121.700" Callsign="CYQG_GND" Name="WG" />
+  <Sector FullName="CYSB ATIS" Frequency="127.400" Callsign="CYSB_ATIS" Name="ATIS" />
+  <Sector FullName="Montreal Terminal" Frequency="118.900" Callsign="CYUL_APP" Name="APP" />
+  <Sector FullName="Montreal Terminal" Frequency="132.850" Callsign="CYUL_APP" Name="APP" />
+  <Sector FullName="Montreal Terminal" Frequency="126.900" Callsign="CYUL_APP" Name="APP" />
+  <Sector FullName="Montreal Terminal" Frequency="124.650" Callsign="CYUL_DEP" Name="DEP" />
+  <Sector FullName="Montreal Terminal" Frequency="120.420" Callsign="CYUL_DEP" Name="DEP" />
+  <Sector FullName="Montreal Terminal" Frequency="125.150" Callsign="CYUL_APP" Name="APP" />
+  <Sector FullName="Ottawa Terminal" Frequency="135.150" Callsign="CYOW_APP" Name="APP" />
+  <Sector FullName="Ottawa Departures" Frequency="128.170" Callsign="CYOW_DEP" Name="DEP" />
+  <Sector FullName="Ottawa Tower" Frequency="118.800" Callsign="CYOW_TWR" Name="TWR" />
+  <Sector FullName="Ottawa Ground" Frequency="121.900" Callsign="CYOW_GND" Name="GND" />
+  <Sector FullName="Ottawa Clearance" Frequency="119.400" Callsign="CYOW_DEL" Name="DEL" />
+  <Sector FullName="Capitals Terminal" Frequency="135.150" Callsign="CPTL_APP" Name="APP" />
+  <Sector FullName="Winnipeg Centre HD/W" Frequency="124.000" Callsign="CZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre WK" Frequency="134.325" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre VC" Frequency="126.400" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre NL" Frequency="134.600" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre GP" Frequency="123.800" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre QR" Frequency="120.100" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre WW" Frequency="132.250" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre WE" Frequency="118.000" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre QK" Frequency="132.200" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre SP" Frequency="132.125" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre TL" Frequency="135.150" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre HU" Frequency="132.075" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre EG" Frequency="135.000" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre TH" Frequency="134.500" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre PA" Frequency="133.100" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre LN" Frequency="134.975" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre DR" Frequency="132.900" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre QV" Frequency="124.300" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre CL" Frequency="119.700" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre GM" Frequency="120.500" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre FL" Frequency="134.175" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre HD" Frequency="124.000" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre SU" Frequency="133.250" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Winnipeg Centre YW" Frequency="135.225" Callsign="ZWG_CTR" Name="CTR" />
+  <Sector FullName="Edmonton Centre" Frequency="135.750" Callsign="CZEG_CTR" Name="-" />
+  <Sector FullName="Edmonton Centre QL" Frequency="135.750" Callsign="CZEG_CTR" Name="-" />
+  <Sector FullName="Edmonton Centre QF" Frequency="132.850" Callsign="CZEG_CTR" Name="-" />
+  <Sector FullName="Edmonton Centre DH" Frequency="135.120" Callsign="CZEG_CTR" Name="-" />
+  <Sector FullName="Edmonton Centre PR" Frequency="135.020" Callsign="CZEG_CTR" Name="-" />
+  <Sector FullName="Edmonton Centre ZU" Frequency="132.050" Callsign="CZEG_CTR" Name="-" />
+  <Sector FullName="Edmonton Centre KM" Frequency="134.670" Callsign="CZEG_CTR" Name="-" />
+  <Sector FullName=";Edmonton Radio FS" Frequency="126.700" Callsign="CZEG_FSS" Name="-" />
+  <Sector FullName="Edmonton Radio FS" Frequency="135.025" Callsign="CZEG_FSS" Name="-" />
+  <Sector FullName="Edmonton Mandatory MF" Frequency="122.200" Callsign="CZEG_ZMF" Name="-" />
+  <Sector FullName="Moncton Center" Frequency="133.350" Callsign="CZQM_CTR" Name="CTR" />
+  <Sector FullName="ZMP5  Eau Claire" Frequency="125.300" Callsign="MSP_CTR" Name="05" />
+  <Sector FullName="ZMP11 Alexandria" Frequency="133.400" Callsign="MSP_CTR" Name="11" />
+  <Sector FullName="ZMP13 Iron Mountain" Frequency="133.450" Callsign="MSP_CTR" Name="13" />
+  <Sector FullName="Mansfield Low Sector 04" Frequency="134.900" Callsign="CLE_CTR" Name="04" />
+  <Sector FullName="Lansing Low Sector 12" Frequency="126.750" Callsign="CLE_CTR" Name="12" />
+  <Sector FullName="Buffalo Low Sector 33" Frequency="125.200" Callsign="CLE_CTR" Name="33" />
+  <Sector FullName="Morgantown Low Sector 55" Frequency="126.950" Callsign="CLE_CTR" Name="55" />
+  <Sector FullName="Youngstown Low Sector 75" Frequency="120.770" Callsign="CLE_CTR" Name="75" />
+  <Sector FullName="Hudson High Sector 27" Frequency="134.770" Callsign="CLE_CTR" Name="27" />
+  <Sector FullName="Ravenna High Sector 48" Frequency="119.875" Callsign="CLE_CTR" Name="48" />
+  <Sector FullName="Ravenna High Sector 48" Frequency="119.870" Callsign="CLE_CTR" Name="48" />
+  <Sector FullName="Bellaire High Sector 66" Frequency="125.420" Callsign="CLE_CTR" Name="66" />
+  <Sector FullName="Warren High Sector 77" Frequency="134.120" Callsign="CLE_CTR" Name="77" />
+  <Sector FullName="Windsor Ground" Frequency="121.700" Callsign="CYQG_GND" Name="GND" />
+  <Sector FullName="Windsor Tower" Frequency="121.700" Callsign="CYQG_TWR" Name="TWR" />
+  <Sector FullName="Allegheny Ground" Frequency="121.700" Callsign="AGC_GND" Name="GND" />
+  <Sector FullName="Allegheny Tower" Frequency="121.100" Callsign="AGC_TWR" Name="TWR" />
+  <Sector FullName="Ann Arbor Ground" Frequency="121.600" Callsign="ARB_GND" Name="GND" />
+  <Sector FullName="Ann Arbor Tower" Frequency="121.600" Callsign="ARB_TWR" Name="TWR" />
+  <Sector FullName="Lakefront Ground" Frequency="121.900" Callsign="BKL_GND" Name="GND" />
+  <Sector FullName="Lakefront Tower" Frequency="121.900" Callsign="BKL_TWR" Name="TWR" />
+  <Sector FullName="Buffalo Clearance" Frequency="124.700" Callsign="BUF_DEL" Name="DEL" />
+  <Sector FullName="Buffalo Ground" Frequency="133.200" Callsign="BUF_GND" Name="GND" />
+  <Sector FullName="Buffalo Tower" Frequency="120.500" Callsign="BUF_TWR" Name="TWR" />
+  <Sector FullName="Buffalo Approach East/Combined Radar" Frequency="126.150" Callsign="BUF_APP" Name="AEA" />
+  <Sector FullName="Buffalo Approach Final Radar" Frequency="123.800" Callsign="BUF_APP" Name="AFI" />
+  <Sector FullName="Buffalo Approach West Radar" Frequency="126.500" Callsign="BUF_APP" Name="AWE" />
+  <Sector FullName="Erie Approach" Frequency="121.000" Callsign="ERI_APP" Name="APP" />
+  <Sector FullName="Detroit Departure West Jet (W)" Frequency="125.520" Callsign="DTW_DEP" Name="DPW" />
+  <Sector FullName="Detroit Departure East Jet (E)" Frequency="132.020" Callsign="DTW_DEP" Name="DPE" />
+  <Sector FullName="Detroit West Feeder (S)" Frequency="124.970" Callsign="DTW_APP" Name="AWF" />
+  <Sector FullName="Detroit East Feeder (F)" Frequency="126.220" Callsign="DTW_APP" Name="AEF" />
+  <Sector FullName="Detroit Third Feeder (R)" Frequency="124.250" Callsign="DTW_APP" Name="THF" />
+  <Sector FullName="Detroit West Arrival (A)" Frequency="124.050" Callsign="DTW_APP" Name="AWA" />
+  <Sector FullName="Detroit East Arrival (B)" Frequency="125.150" Callsign="DTW_APP" Name="AEA" />
+  <Sector FullName="Detroit CRUXX (Y)" Frequency="118.950" Callsign="DTW_APP" Name="CRX" />
+  <Sector FullName="Detroit JUNKR (K)" Frequency="134.300" Callsign="DTW_APP" Name="JKR" />
+  <Sector FullName="Detroit Pontiac (P)" Frequency="127.500" Callsign="DTW_APP" Name="PTK" />
+  <Sector FullName="Detroit CITY (D)" Frequency="126.850" Callsign="DTW_APP" Name="CTY" />
+  <Sector FullName="Erie Clearance" Frequency="126.800" Callsign="ERI_DEL" Name="DEL" />
+  <Sector FullName="Erie Ground" Frequency="121.900" Callsign="ERI_GND" Name="GND" />
+  <Sector FullName="Erie Tower" Frequency="118.100" Callsign="ERI_TWR" Name="TWR" />
+  <Sector FullName="Erie Approach" Frequency="121.000" Callsign="ERI_APP" Name="APP" />
+  <Sector FullName="Niagara Ground" Frequency="121.700" Callsign="IAG_GND" Name="GND" />
+  <Sector FullName="Niagara Tower" Frequency="118.500" Callsign="IAG_TWR" Name="TWR" />
+</Sectors>

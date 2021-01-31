@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Radars>
+   <Radar Name="YZ" Type="SSR_ModeC" Elevation="774" MaxRange="300">
+ <Lat>+43.4030240</Lat>
+    <Long>-79.3745280</Long>
+  </Radar>
+   <Radar Name="YZ" Type="PRI" Elevation="774" MaxRange="300">
+ <Lat>+43.4030240</Lat>
+    <Long>-79.3745280</Long>
+  </Radar>
+   <Radar Name="YZ" Type="SSR_ModeC" Elevation="774" MaxRange="300">
+ <Lat>+43.4030240</Lat>
+    <Long>-79.3745280</Long>
+  </Radar>
+   <Radar Name="YZ" Type="SSR_ModeS" Elevation="774" MaxRange="300">
+ <Lat>+43.4030240</Lat>
+    <Long>-79.3745280</Long>
+  </Radar>
+   <Radar Name="YZ" Type="ADSB" Elevation="774" MaxRange="300">
+ <Lat>+43.4030240</Lat>
+    <Long>-79.3745280</Long>
+  </Radar>
+   <Radar Name="YZ" Type="SMR_ADSB" Elevation="774" MaxRange="300">
+ <Lat>+43.4030240</Lat>
+    <Long>-79.3745280</Long>
+  </Radar>
+</Radars>
