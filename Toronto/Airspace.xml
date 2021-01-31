@@ -5217,6 +5217,22 @@
       <Route Runway="33L" />
       <Route Runway="15R" />
     </SID>
+    <SID Name="VERDO6" Airport="CYYZ" Runways="24R,24L,23,06L,06R,05,33R,33L,15L,15R">
+      <Route Runway="24L">SAVUR SEKIT</Route>
+      <Route Runway="24R">SAVUR SEKIT</Route>
+      <Route Runway="06R">ALKUT PUTON</Route>
+      <Route Runway="06L">ALKUT PUTON</Route>
+      <Route Runway="23">SAVUR SEKIT</Route>
+      <Route Runway="05">ALKUT PUTON</Route>
+      <Route Runway="33R">VIVET DUVAK</Route>
+      <Route Runway="15L">ALKUT PUTON</Route>
+      <Route Runway="33L">VIVET DUVAK</Route>
+      <Route Runway="15R">ALKUT PUTON</Route>
+      <Route>VERDO AGNOB</Route>
+      <Transition Name="ELSUB">ELSUB</Transition>
+      <Transition Name="IPTOS">IPTOS</Transition>
+      <Transition Name="LORKA">LORKA</Transition>
+    </SID>
   </SIDSTARs>
 <Airports>
   <Airport ICAO="CNC3" Position="+434535.301-0795226.000" />
