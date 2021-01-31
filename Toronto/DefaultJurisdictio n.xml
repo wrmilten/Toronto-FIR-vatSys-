@@ -5,6 +5,7 @@
         <Departure Values="CYYZ">
           <Rules>
             <Runway Values="24R,24L,33R,33L,06L,06R,15L,15R">
+            </Runway>
               </Rules>
         </Departure>
     </RuleSet>
