@@ -33,7 +33,7 @@
   <Sector FullName="Toronto Centre HU" Frequency="126.175" Callsign="TOR_HU_CTR" Name="HU" />
   <Sector FullName="Toronto Centre LU" Frequency="135.820" Callsign="TOR_LU_CTR" Name="LU" />
   <Sector FullName="Toronto Centre OV" Frequency="134.920" Callsign="TOR_OV_CTR" Name="OV" />
-  <Sector FullName="Toronto 1 Approach" Frequency="132.800" Callsign="CYYZ_APP" Name="AA" />
+  <Sector FullName="Toronto 1 Approach" Frequency="132.800" Callsign="CYYZ_APP" Name="AA" /
   <Sector FullName="Toronto 2 Approach" Frequency="124.475" Callsign="CYYZ_2_APP" Name="AB" />
   <Sector FullName="Toronto 3 Approach" Frequency="125.400" Callsign="CYYZ_3_APP" Name="AC" />
   <Sector FullName="Toronto North Departure" Frequency="127.575" Callsign="CYYZ_N_DEP" Name="ND" />
