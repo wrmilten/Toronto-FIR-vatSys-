@@ -431,7 +431,7 @@
       <Runway Name="33" DataRunway="33">
         <SID Name="ANCOL5" />
         <SID Name="BETES3" />
-        <SID Name="BUTTOMVILLE3" />
+        <SID Name="BUTTONVILLE3" />
         <SID Name="GOPUP3" />
         <SID Name="KEPTA3" />
         <SID Name="RIGUS4" />
@@ -439,7 +439,7 @@
       <Runway Name="15" DataRunway="15">
         <SID Name="ANCOL5" />
         <SID Name="BETES3" />
-        <SID Name="BUTTOMVILLE3" />
+        <SID Name="BUTTONVILLE3" />
         <SID Name="GOPUP3" />
         <SID Name="KEPTA3" />
         <SID Name="RIGUS4" />
@@ -447,7 +447,7 @@
       <Runway Name="21" DataRunway="21">
         <SID Name="ANCOL5" />
         <SID Name="BETES3" />
-        <SID Name="BUTTOMVILLE3" />
+        <SID Name="BUTTONVILLE3" />
         <SID Name="GOPUP3" />
         <SID Name="KEPTA3" />
         <SID Name="RIGUS4" />
@@ -455,7 +455,7 @@
       <Runway Name="03" DataRunway="03">
         <SID Name="ANCOL5" />
         <SID Name="BETES3" />
-        <SID Name="BUTTOMVILLE3" />
+        <SID Name="BUTTONVILLE3" />
         <SID Name="GOPUP3" />
         <SID Name="KEPTA3" />
         <SID Name="RIGUS4" />
@@ -5763,6 +5763,13 @@
       <Route Runway="33R">VIDRO ELVUT NUBAV MIRUG GUBOV OKOKU MAVID KEDSU</Route>
       <Route Runway="33L">VIDRO ELVUT NUBAV MIRUG GUBOV OKOKU MAVID KEDSU</Route>
     </STAR>
+
+    <SID Name="BUTTONVILLE3" Airport="CYKZ" Runways="03,15,21,33">
+      <Route Runway="03"/>
+      <Route Runway="15"/>
+      <Route Runway="21"/>
+      <Route Runway="33"/>
+    </SID>
   </SIDSTARs>
 <Airports>
   <Airport ICAO="CNC3" Position="+434535.301-0795226.000" />
