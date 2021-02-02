@@ -5770,6 +5770,64 @@
       <Route Runway="21"/>
       <Route Runway="33"/>
     </SID>
+    <SID Name="ANCOL5" Airport="CYKZ" Runways="03,15,21,33">
+      <Route>ANCOL LETOR</Route>
+      <Transition Name="DERLO">SEVBI DERLO</Transition>
+      <Transition Name="GNTRY">PEMBA NUGID GNTRY</Transition>
+      <Transition Name="GGUCE">GGUCE</Transition>
+    </SID>
+    <SID Name="BETES3" Airport="CYKZ" Runways="03,15,21,33">
+      <Route>OAKVL BETES</Route>
+      <Transition Name="ERI">ERI</Transition>
+      <Transition Name="FOXEE">SAMYL FOXEE</Transition>
+      <Transition Name="AIRRA">SAMYL AIRRA</Transition>
+    </SID>
+    <SID Name="GOPUP3" Airport="CYKZ" Runways="03,15,21,33">
+      <Route>TULEK GOPUP</Route>
+      <Transition Name="HOCKE">EMDEX TAGUM HOCKE</Transition>
+      <Transition Name="SLLAP">KARIT HHIPP SLLAP</Transition>
+    </SID>
+    <SID Name="KEPTA3" Airport="CYKZ" Runways="03,15,21,33">
+      <Route>RIKEM</Route>
+      <Transition Name="BMPAH">KEPTA BMPAH</Transition>
+      <Transition Name="WOZEE">WOZEE</Transition>
+    </SID>
+    <SID Name="RIGUS4" Airport="CYKZ" Runways="03,15,21,33">
+      <Route>DUSOM RIGUS MIKKY PSB</Route>
+    </SID>
+
+    <SID Name="HAMILTON9" Airport="CYHM" Runways="06,12,24">
+      <Route Runway="06"/>
+      <Route Runway="12">ZHM</Route>
+      <Route Runway="24"/>
+    </SID>
+    <SID Name="MUNRO2" Airport="CYHM" Runways="30">
+      <Route Runway="30"/>
+    </SID>
+    <STAR Name="AVSOX2" Airport="CYHM" Runways="06,12,24,30">
+      <Route Runway="06">AVSOX DAXAT</Route>
+      <Route Runway="12">AVSOX APGOM</Route>
+      <Route Runway="24">AVSOX APGOM BIMKI UDMIK</Route>
+      <Route Runway="30">AVSOX DAXAT KEDBU OTPOK</Route>
+    </STAR>
+    <STAR Name="COLTS7" Airport="CYHM" Runways="06,12,24,30">
+      <Route Runway="06">COLTS IGTUT AVTEG</Route>
+      <Route Runway="12">COLTS BOVUG VIXOM</Route>
+      <Route Runway="24">COLTS EBKAG NOPOP XOXUS</Route>
+      <Route Runway="30">COLTS DELVA</Route>
+    </STAR>
+    <STAR Name="TIKUM2" Airport="CYHM" Runways="06,12,24,30">
+      <Route Runway="06">TIKUM DAXAT</Route>
+      <Route Runway="12">TIKUM DAXAT LEVEX PIBRU</Route>
+      <Route Runway="24">TIKUM DAXAT BIMKI UDMIK</Route>
+      <Route Runway="30">TIKUM KEDBU OTPOK</Route>
+    </STAR>
+    <STAR Name="UDMIK3" Airport="CYHM" Runways="06,12,24,30">
+      <Route Runway="06">YYZ UDMIK LEVEX</Route>
+      <Route Runway="12">YYZ UDMIK BIMKI SAXIL</Route>
+      <Route Runway="24">YYZ MUXIG</Route>
+      <Route Runway="30">YYZ MUXIG OTROX ROVMU</Route>
+    </STAR>
   </SIDSTARs>
 <Airports>
   <Airport ICAO="CNC3" Position="+434535.301-0795226.000" />
