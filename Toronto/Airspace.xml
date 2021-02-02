@@ -5828,6 +5828,27 @@
       <Route Runway="24">YYZ MUXIG</Route>
       <Route Runway="30">YYZ MUXIG OTROX ROVMU</Route>
     </STAR>
+
+    <SID Name="WATERLOO3" Airport="CYKF" Runways="08,14,26,32">
+      <Route Runway="08"/>
+      <Route Runway="14"/>
+      <Route Runway="26"/>
+      <Route Runway="32"/>
+    </SID>
+
+    <SID Name="LONDON2" Airport="CYXU" Runways="09,15,27,33">
+      <Route Runway="09"/>
+      <Route Runway="15"/>
+      <Route Runway="27"/>
+      <Route Runway="33"/>
+    </SID>
+
+    <SID Name="OSHAWA3" Airport="CYOO" Runways="05,12,23,30">
+      <Route Runway="05"/>
+      <Route Runway="12"/>
+      <Route Runway="23"/>
+      <Route Runway="30"/>
+    </SID>
   </SIDSTARs>
 <Airports>
   <Airport ICAO="CNC3" Position="+434535.301-0795226.000" />
