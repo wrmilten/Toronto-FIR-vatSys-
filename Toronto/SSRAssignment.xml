@@ -1,0 +1,618 @@
+<?xml version="1.0"?>
+<SSRAssignment>
+  <Bin>
+    <Codes Start="0500" End="0577">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2200" End="2237">
+      <Rule Sector="APP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2240" End="2247">
+      <Rule Sector="DEP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2250" End="2277">
+      <Rule Sector="DEP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0500" End="0577">
+      <Rule Sector="DEP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0500" End="0577">
+      <Rule Sector="DEP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0000" End="0000">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0000" End="0000">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5500" End="6377">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5500" End="6377">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5500" End="6377">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5500" End="6377">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5500" End="6377">
+      <Rule Sector="DEL" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4300" End="4307">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4310" End="4317">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4320" End="4327">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4330" End="4337">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4340" End="4347">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4350" End="4357">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4360" End="4367">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4370" End="4377">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4010" End="4017">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4020" End="4027">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4040" End="4047">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4050" End="4057">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5560" End="5567">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5570" End="5577">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4440" End="4447">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4450" End="4457">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4450" End="4457">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4450" End="4447">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1040" End="1077">
+      <Rule Sector="APP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1040" End="1077">
+      <Rule Sector="APP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1040" End="1077">
+      <Rule Sector="APP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1040" End="1077">
+      <Rule Sector="DEP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1040" End="1077">
+      <Rule Sector="DEP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1315" End="1377">
+      <Rule Sector="APP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0300" End="0337">
+      <Rule Sector="APP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0300" End="0337">
+      <Rule Sector="DEP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0300" End="0337">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0300" End="0337">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0300" End="0337">
+      <Rule Sector="DEL" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1050" End="1077">
+      <Rule Sector="APP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0626" End="0677">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5120" End="5177">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5120" End="5177">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1401" End="1425">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5120" End="5177">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5120" End="5177">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5120" End="5177">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5120" End="5177">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1401" End="1425">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1401" End="1425">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1401" End="1425">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0626" End="0677">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0626" End="0677">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0626" End="0677">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0601" End="0625">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0601" End="0625">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0601" End="0625">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0601" End="0625">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1426" End="1477">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1426" End="1477">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1426" End="1477">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1426" End="1477">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1426" End="1477">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="1426" End="1477">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5100" End="5757">
+      <Rule Sector="-" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5100" End="5757">
+      <Rule Sector="-" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5100" End="5757">
+      <Rule Sector="-" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5100" End="5757">
+      <Rule Sector="-" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5100" End="5757">
+      <Rule Sector="-" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5100" End="5757">
+      <Rule Sector="-" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5100" End="5757">
+      <Rule Sector="-" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0100" End="1077">
+      <Rule Sector="-" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0100" End="1077">
+      <Rule Sector="-" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0100" End="0077">
+      <Rule Sector="-" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="3101" End="3177">
+      <Rule Sector="CTR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="3601" End="3677">
+      <Rule Sector="05" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="3601" End="3677">
+      <Rule Sector="11" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="3601" End="3677">
+      <Rule Sector="13" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5701" End="5777">
+      <Rule Sector="04" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5701" End="5777">
+      <Rule Sector="12" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5701" End="5777">
+      <Rule Sector="33" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5701" End="5777">
+      <Rule Sector="55" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5701" End="5777">
+      <Rule Sector="75" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5701" End="5777">
+      <Rule Sector="27" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5701" End="5777">
+      <Rule Sector="48" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5701" End="5777">
+      <Rule Sector="48" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5701" End="5777">
+      <Rule Sector="66" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="5701" End="5777">
+      <Rule Sector="77" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="7200" End="7207">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="7200" End="7207">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2100" End="2107">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2100" End="2107">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="6000" End="6007">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="6000" End="6007">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2500" End="2507">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2500" End="2507">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0140" End="0177">
+      <Rule Sector="DEL" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0140" End="0177">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0140" End="0177">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0140" End="0177">
+      <Rule Sector="AEA" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0140" End="0177">
+      <Rule Sector="AFI" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="0140" End="0177">
+      <Rule Sector="AWE" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2510" End="2517">
+      <Rule Sector="APP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="DPW" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="DPE" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="AWF" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="AEF" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="THF" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="AWA" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="AEA" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="CRX" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="JKR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="PTK" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="4140" End="4177">
+      <Rule Sector="CTY" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2510" End="2517">
+      <Rule Sector="DEL" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2510" End="2517">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2510" End="2517">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="2510" End="2517">
+      <Rule Sector="APP" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="6040" End="6047">
+      <Rule Sector="GND" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="6040" End="6047">
+      <Rule Sector="TWR" />
+    </Codes>
+  </Bin>
+</SSRAssignment>
